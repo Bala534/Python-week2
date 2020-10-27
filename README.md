@@ -25,4 +25,6 @@
   <li>Enter the option with shortform mentioned above</li>
 </ul>
 
-#Block diagram
+# Block diagram
+
+<img src='L7_chatbot_block_dig.png'>
