@@ -31,4 +31,4 @@
 
 # Youtube video
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![IMAGE ALT TEXT](screencapture-file-C-Users-hi-Desktop-ML2021-Python-for-beginners-week-2-hello-html-2020-10-27-11_47_01.png)](http://www.youtube.com/watch?v=zwSdXbu7t70 "Video Title")
