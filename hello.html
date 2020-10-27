@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>PlantServo☘</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link rel='icon' type="image/png" href="img/plant.jpg">
+  </head>
+
+  <body>
+    <!--This is a starting DIV section-->
+    <div class="head">
+      <img class="logo" src="https://images.collegedunia.com/public/college_data/images/logos/1480310942logo.png"><br>
+      <h1>!!!! Hello VITians !!!!</h1>
+      <h2>I am PlantServo Bot</h2>
+      <b style="font-size:20px;">Let us chat for more info about plantation.</b>
+    </div>
+
+
+    <div id="box">
+      <!-- this is the main chat box where CHAT BOT and USER will communicate -->
+      <div id="messages">
+        <div class="botblock">
+          <img class="botimg" src="https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_robot_chatbot_thinkstock_856909876-100749925-large.jpg">
+          <div class="botmessage">
+            Hello! I am a PlantServo Bot. Upload your photo and Please enter your name : 
+          </div>
+
+          <div style="margin:10px;" accept="image/*" onchange="loadFile(event)"><input type="file">
+          </div>
+            <!-- write here anything you wish -->
+        </div>
+
+      </div>
+
+
+      <!--This is a hidden section and comes into the html page only when user enter the message-->
+      <div id="hidden">
+        <!--This is a bot messages section-->
+        <div id="botblock" class="botblock">
+          
+          <img class="botimg" src="https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_robot_chatbot_thinkstock_856909876-100749925-large.jpg">
+          <div class="botmessage">
+            Hi, What do you want to buy?
+          </div>
+            
+            <!-- write here anything you wish -->
+        </div>
+
+        <!--This is a user reply messages section-->
+        <div id="userblock" class="userblock">
+
+          <img class="userimg" id="myphoto" align="right">
+          <div class="usermessage">
+          </div>
+
+        </div>
+
+      </div>
+
+      <input id="input" placeholder = "Enter your message...." onkeyup="taketheinput(event)">
+
+    </div>
+
+    <script src="script.js"></script>
+
+  </body>
+</html>
