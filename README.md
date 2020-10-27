@@ -9,7 +9,7 @@
   <li>The bot gives information of soil,water,how to grow the plant,and days required to grow of a particular plant.</li>
 </ul>
 
-#Steps to use the chatbot
+# Steps to use the chatbot
 
 <ul>
   <li>Open the PlantServo Chatbot.</li>
