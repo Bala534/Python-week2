@@ -36,3 +36,12 @@
 # Youtube video
 
 [![IMAGE ALT TEXT](screencapture-file-C-Users-hi-Desktop-ML2021-Python-for-beginners-week-2-hello-html-2020-10-27-11_47_01.png)](http://www.youtube.com/watch?v=zwSdXbu7t70 "Video Title")
+
+# References
+
+<ol>
+  <li><a href='https://www.w3schools.com/html/'>For html</a></li>
+  <li><a href='https://www.w3schools.com/css/default.asp'>For css</a></li>
+  <li><a href='https://www.w3schools.com/js/default.asp'>For javascript</a></li>
+  <li><a href='https://www.w3schools.com/xml/xml_http.asp'>For XML httprequest</a></li>
+</ol>
