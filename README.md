@@ -25,6 +25,10 @@
   <li>Enter the option with shortform mentioned above</li>
 </ul>
 
+# Chat with the bot here
+
+<a href='https://sample-web.mahesh2002.repl.co/'>Plantservo bot</a>
+
 # Block diagram
 
 <img src='L7_chatbot_block_dig.png'>
